@@ -10,7 +10,7 @@ const Backend = () => {
                     <i className="uil uil-badge-check"></i>
                     <div>
                         <h3 className="skills_name">PHP</h3>
-                        <span className="skils_level">Intermediate</span>
+                        <span className="skils_level">Basic</span>
                     </div>
 
                 </div>
@@ -26,7 +26,7 @@ const Backend = () => {
                     <i className="uil uil-badge-check"></i>
                     <div>
                         <h3 className="skills_name">Angular</h3>
-                        <span className="skils_level">Intermediate</span>
+                        <span className="skils_level">Basic</span>
                     </div>
 
                 </div>
